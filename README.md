@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckyluxx
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Java,Python3,PHP
+- 🌱 I’m currently learning Java, CSS, JS
 - 📫 you can reach me at twitter @helloword_luck
 
 <!---
