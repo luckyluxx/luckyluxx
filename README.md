@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckyluxx
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Java, CSS, JS
+- 👀 I’m interested in Front-end Web Development
+- 🌱 I’m currently learning MERN Dev environment
 - 📫 you can reach me at twitter @helloword_luck
 
 <!---
