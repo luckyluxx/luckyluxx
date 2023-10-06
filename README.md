@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @luckyluxx
 - 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning MERN Dev environment
-- 📫 you can reach me at twitter @helloword_luck
+- 🌱 currently learning javascript framework such as React and Next
+- 🔎 while also looking an opportunities to contribute in the related project
+- 📫 feel free to reach me on email
 
 <!---
 luckyluxx/luckyluxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
