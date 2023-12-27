@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckyluxx
 - 👀 I’m interested in Front-end Web Development
-- 🌱 currently learning javascript framework such as React and Next
+- 🌱 currently learning javascript web development such as React, Vue Nextjs and Nuxt
 - 🔎 while also looking an opportunities to contribute in the related project
 - 📫 feel free to reach me on email
 
